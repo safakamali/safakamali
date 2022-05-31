@@ -1,5 +1,6 @@
-[![kamalimohammadsafa@gmail.com](https://img.shields.io/badge/Kamalimohammadsafa%40gmail.com-Email-orange?logo=gmail&style=for-the-badge&link=mailto:kamalimohammadsafa@gmail.com "Email")](mailto:kamalimohammadsafa@gmail.com)
-[![kamalisafa on telegram](https://img.shields.io/badge/@kamalisafa-Telegram-informational?style=for-the-badge&logo=telegram "Telegram")](https://t.me/kamalisafa)
+[![kamalimohammadsafa@gmail.com](https://img.shields.io/badge/Email-Kamalimohammadsafa%40gmail.com-orange?logo=gmail&style=for-the-badge&link=mailto:kamalimohammadsafa@gmail.com "Email")](mailto:kamalimohammadsafa@gmail.com)
+[![kamalisafa on telegram](https://img.shields.io/badge/Telegram-@kamalisafa-informational?style=for-the-badge&logo=telegram "Telegram")](https://t.me/kamalisafa)
+[![kamalisafa on linkedin](https://img.shields.io/badge/Linkedin-Mohammad%20safa%20kamali-blue?style=for-the-badge&logo=linkedin "LinkedIn")](https://t.me/kamalisafa)
 ----------------------------------
 
 ### Hi there 👋
