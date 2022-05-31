@@ -13,3 +13,9 @@
 - 💬 Ask me about New technologies!
 - 📫 How to reach me: @kamalisafa on telegram, kamalimohammadsafa@gmail.com
 - ⚡ Fun fact: I’m 11 yers old!
+
+-----
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=safakamali)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safakamali&layout=compact)
