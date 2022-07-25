@@ -4,7 +4,7 @@
 ----------------------------------
 
 ### Hi there 👋
-### I'm Mohammad safa kamali, Web Designer & Software engineer
+### I'm Mohammad Safa Kamali, Web Designer & Software engineer
 #### I fully remember Python and develop the Mathline project with it.
 
 - 🔭 I’m currently working on [Mathline](http://safasoft.gigfa.com/mt) Project
