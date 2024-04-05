@@ -8,12 +8,12 @@
 #### I fully remember Python and develop the Mathline project with it.
 
 - 🔭 I’m currently working on [Mathline](http://safasoft.gigfa.com/mt) Project
-- 🌱 I’m currently learning more in Flutter.
+- 🌱 I’m currently learning more in React and PWA applications.
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about New technologies!
 - 📫 How to reach me: @kamalisafa on telegram, kamalimohammadsafa@gmail.com
 
 -----
+You can visit my site: [SAFAKAMALI.IR](http://safakamali.ir)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=safakamali)
 <br>
